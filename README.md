@@ -7,5 +7,7 @@ El sistema gestiona variables como la capacidad máxima del tanque, la cantidad 
 ### Utilize para el desarrollo de este codigo
 
 **Lenguaje:** Java
+
 **Librerías Gráficas:** Java Swing / AWT (JFrame, JButton, JTextArea)
+
 **Entorno de Desarrollo:** IntelliJ IDEA
